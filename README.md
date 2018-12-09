@@ -24,6 +24,12 @@ Click on the hostname link<br />
 ![Screenshot](host_click.png)<br />
 And you should get the metrics graphs<br />
 ![Screenshot](metrics_graph.png)<br />
+
+### Website response monitoring
+Run the ***teridion_mon.sh*** script.<br/>
+This script will add a new measurement to the Data Explorer, so you can add a new query that cehck some responds fields
+![Screenshot](web_site_mon.png)<br />
+
 ## Author
 
 * **Oren Cohen**
